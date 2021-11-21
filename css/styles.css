@@ -61,12 +61,7 @@ body {
 	text-align: center;
 }
 
-/* header {
-	background-image: url('./images/bg-header-desktop.png');
-	background-repeat: no-repeat;
-	background-size: cover;
-	padding: 80px 0 20px;
-} */
+
 
 img {
 	max-width: 100%;
@@ -78,15 +73,12 @@ p {
 }
 
 .container {
-	/* padding: 5% 20px; */
 	margin: 30px auto;
 	max-width: 100%;
 
 }
 
-.container-small {
-	width: 700px;
-}
+
 
 section {
 	padding: 30px 0;
@@ -108,26 +100,7 @@ section {
 	margin: 100px auto;
 }
 
-.btn {
-	border: none;
-	border-radius: 50px;
-	color: #fff;
-	font-family: 'Bai Jamjuree', sans-serif;
-	font-size: 16px;
-	font-weight: 600;
-	padding: 15px 35px;
-	margin: 15px 5px;
-}
-
-.btn-primary {
-	background-color: var(--strong-cyan);
-	box-shadow: 0 4px hsl(171, 68%, 36%);
-}
-
-.btn-secondary {
-	background-color: var(--light-blue);
-	box-shadow: 0 4px hsl(233, 71%, 61%);
-}
+/* FOOTER */
 
 footer {
 	background-color: hsl(0, 0%, 93%);
@@ -188,6 +161,8 @@ footer nav a:hover{
     border-radius: 50px;
     color: #ffffff;
 }
+
+/* FIN FOOTER */
 
 @media (max-width: 768px) {
 	.flex {
