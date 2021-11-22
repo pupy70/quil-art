@@ -144,6 +144,13 @@ footer .social a {
 	font-size: 30px;
 	margin-right: 10px;
 }
+
+footer .social li :hover{
+	
+	color: rgb(66, 195, 228);
+}
+
+
 footer nav a{
 	justify-content: space-between; 
     color: #000000;
