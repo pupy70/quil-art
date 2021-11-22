@@ -101,6 +101,17 @@ section {
 	margin: 100px auto;
 }
 
+.box-principal{
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5%;
+}
+.box-principal p{
+	text-align: justify;
+}
+
 /* FOOTER */
 
 footer {
